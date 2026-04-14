@@ -1,0 +1,11 @@
+# Build artifacts
+aes_demo
+bench_csv
+
+# Object files
+*.o
+
+# Benchmark output (optional, bỏ comment nếu muốn giữ)
+# results.csv
+# speedup_chart.png
+# throughput_chart.png
